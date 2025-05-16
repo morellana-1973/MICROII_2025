@@ -7,3 +7,9 @@ See the following for generating UUIDs:
 
 ESP32 BLE
 https://www.youtube.com/watch?v=0Yvd_k0hbVs
+
+BLE with ESP32 tutorial part 1: the Server
+https://www.youtube.com/watch?v=0Yvd_k0hbVs&t=1314s
+
+BLE with ESP32 tutorial part 2: the client
+https://www.youtube.com/watch?v=s3yoZa6kzus
