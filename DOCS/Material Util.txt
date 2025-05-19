@@ -1,0 +1,15 @@
+ESP32 Bluetooth BLE with Arduino IDE (Tutorial)
+https://www.youtube.com/watch?v=2mePPqiocUE&t=3s
+
+Generador  de UUID para el dispositivo que comunica con BLE
+See the following for generating UUIDs:
+// https://www.uuidgenerator.net/
+
+ESP32 BLE
+https://www.youtube.com/watch?v=0Yvd_k0hbVs
+
+BLE with ESP32 tutorial part 1: the Server
+https://www.youtube.com/watch?v=0Yvd_k0hbVs&t=1314s
+
+BLE with ESP32 tutorial part 2: the client
+https://www.youtube.com/watch?v=s3yoZa6kzus
